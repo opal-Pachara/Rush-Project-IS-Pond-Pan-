@@ -43,6 +43,4 @@ git clone https://github.com/opal-Pachara/Rush-Project-IS-Pond-Pan.git
 - แทนที่ `app.py` ด้วยชื่อไฟล์ที่ใช้ในการรันโปรเจ็กต์ของคุณ หากไฟล์หลักของโปรเจ็กต์คือ `app.py` ก็ให้ใช้ชื่อนี้แทน
 - ทำตามขั้นตอนในส่วน **Deploy โปรเจ็กต์ขึ้น Streamlit** ที่อธิบายไว้ข้างต้นเพื่อ deploy โปรเจ็กต์ของคุณขึ้น **Streamlit Cloud**.
 
-ตอนนี้ `README.md` ของคุณมีคำแนะนำเกี่ยวกับการ Deploy โปรเจ็กต์ขึ้น **Streamlit** อย่างสมบูรณ์แล้วครับ!
-
 
